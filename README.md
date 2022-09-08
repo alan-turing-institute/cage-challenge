@@ -1,5 +1,4 @@
-# cage-challenge
-Team Mandrake's CAGE Challenge competition index page
+# Team Mandrake's CAGE Challenge competition index page
 
 - [CAGE I Submission (Overall winners)](https://github.com/alan-turing-institute/cage-challenge-1-public)
 - [CAGE II Submission (3rd)](https://github.com/alan-turing-institute/cage-challenge-2-public)
