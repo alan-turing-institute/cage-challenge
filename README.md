@@ -1,4 +1,4 @@
-# Team Mandrake's CAGE Challenge index page
+# Team Mandrake's CAGE Challenge index
 Here you can find links to all of our CAGE challenge final submissions.
 
 - [CAGE I Submission (Overall winners)](https://github.com/alan-turing-institute/cage-challenge-1-public)
